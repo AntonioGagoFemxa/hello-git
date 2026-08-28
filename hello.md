@@ -4453,3 +4453,9 @@ Esto es una prueba en local
 - AntonioGagoFemxa
 - TheCubick
 - inghernandezvelisl-arch
+- Gaston1921
+- amossm-dev
+- ArantzaLB
+- Resmor17
+- moreno-manuel
+- Ndetomas
